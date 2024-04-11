@@ -1,1 +1,2 @@
-# OIBSIP-task2
+
+It is a internship project reprository.
